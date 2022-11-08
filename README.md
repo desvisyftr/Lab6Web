@@ -24,11 +24,13 @@ berikutnya kita membuat konten artikel pada html dengan memasukkan syntax sebagi
 
 ### Membuat Layout Main dan Sidebar Widget
 Masukkan Syntax seperti pada gambar berikut . beginilah tampilannya:
-![gambar8](screenshot/ss8.png)
-![gambar9](screenshot/ss10.png)
+![img]screenshot/ss12.png
+![gambar10](screenshot/ss10.png)
+
 
 ### Menambahkan Footer
 Lalu yang terakhir adalah menambahkan footer dengan tampilan berikut:
+![gambar8](screenshot/ss8.png)
 ![gambar11](screenshot/ss11.png)
 
 # Hasil dari Pratikum Hari Ini
