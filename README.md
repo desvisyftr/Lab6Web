@@ -17,7 +17,7 @@ Lalu, berikutnya menambahkan syntax untuk membuat hero panel, begini tampilannya
 
 
 ### Membuat Konten Artikel
-berikutnya kita membuat konten artike pada html dengan memasukkan syntax sebagi berikut:
+berikutnya kita membuat konten artikel pada html dengan memasukkan syntax sebagi berikut:
 ![gambar6](screenshot/ss6.png)
 ![gambar7](screenshot/ss7.png)
 
@@ -25,7 +25,7 @@ berikutnya kita membuat konten artike pada html dengan memasukkan syntax sebagi 
 ### Membuat Layout Main dan Sidebar Widget
 Masukkan Syntax seperti pada gambar berikut . beginilah tampilannya:
 ![gambar8](screenshot/ss8.png)
-![gambar9](screenshot/ss9.png)
+![gambar9](screenshot/ss10.png)
 
 ### Menambahkan Footer
 Lalu yang terakhir adalah menambahkan footer dengan tampilan berikut:
