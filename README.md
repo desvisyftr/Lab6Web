@@ -24,7 +24,7 @@ berikutnya kita membuat konten artikel pada html dengan memasukkan syntax sebagi
 
 ### Membuat Layout Main dan Sidebar Widget
 Masukkan Syntax seperti pada gambar berikut . beginilah tampilannya:
-![img]screenshot/ss12.png
+![gambar12](screenshot/ss12.png)
 ![gambar10](screenshot/ss10.png)
 
 
